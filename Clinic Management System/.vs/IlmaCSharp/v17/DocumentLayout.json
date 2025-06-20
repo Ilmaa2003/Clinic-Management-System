@@ -1,0 +1,530 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|c:\\users\\user\\source\\repos\\ilmacsharp\\ilmacsharp\\crystalreport1.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|solutionrelative:ilmacsharp\\crystalreport1.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|C:\\Users\\USER\\source\\repos\\IlmaCSharp\\ilmacsharp\\crystalreport3.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|solutionrelative:ilmacsharp\\crystalreport3.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|C:\\Users\\USER\\source\\repos\\IlmaCSharp\\ilmacsharp\\crystalreport2.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|solutionrelative:ilmacsharp\\crystalreport2.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|C:\\Users\\USER\\source\\repos\\IlmaCSharp\\ilmacsharp\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|solutionrelative:ilmacsharp\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|C:\\Users\\USER\\source\\repos\\IlmaCSharp\\ilmacsharp\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|solutionrelative:ilmacsharp\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|C:\\Users\\USER\\source\\repos\\IlmaCSharp\\ilmacsharp\\payrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|solutionrelative:ilmacsharp\\payrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|C:\\Users\\USER\\source\\repos\\IlmaCSharp\\ilmacsharp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|solutionrelative:ilmacsharp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|C:\\Users\\USER\\source\\repos\\IlmaCSharp\\ilmacsharp\\front.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|solutionrelative:ilmacsharp\\front.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|C:\\Users\\USER\\source\\repos\\IlmaCSharp\\ilmacsharp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|solutionrelative:ilmacsharp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|C:\\Users\\USER\\source\\repos\\IlmaCSharp\\ilmacsharp\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|solutionrelative:ilmacsharp\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|C:\\Users\\USER\\source\\repos\\IlmaCSharp\\ilmacsharp\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|solutionrelative:ilmacsharp\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|C:\\Users\\USER\\source\\repos\\IlmaCSharp\\ilmacsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|solutionrelative:ilmacsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|C:\\Users\\USER\\source\\repos\\IlmaCSharp\\ilmacsharp\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|solutionrelative:ilmacsharp\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|C:\\Users\\USER\\source\\repos\\IlmaCSharp\\ilmacsharp\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|solutionrelative:ilmacsharp\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|C:\\Users\\USER\\source\\repos\\IlmaCSharp\\ilmacsharp\\rep01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|solutionrelative:ilmacsharp\\rep01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|C:\\Users\\USER\\source\\repos\\IlmaCSharp\\ilmacsharp\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|solutionrelative:ilmacsharp\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|C:\\Users\\USER\\source\\repos\\IlmaCSharp\\ilmacsharp\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|solutionrelative:ilmacsharp\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|C:\\Users\\USER\\source\\repos\\IlmaCSharp\\ilmacsharp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|solutionrelative:ilmacsharp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|C:\\Users\\USER\\source\\repos\\IlmaCSharp\\ilmacsharp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|solutionrelative:ilmacsharp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|C:\\Users\\USER\\source\\repos\\IlmaCSharp\\ilmacsharp\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|solutionrelative:ilmacsharp\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|C:\\Users\\USER\\source\\repos\\IlmaCSharp\\ilmacsharp\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|solutionrelative:ilmacsharp\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|C:\\Users\\USER\\source\\repos\\IlmaCSharp\\ilmacsharp\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|solutionrelative:ilmacsharp\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|C:\\Users\\USER\\source\\repos\\IlmaCSharp\\ilmacsharp\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|solutionrelative:ilmacsharp\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|C:\\Users\\USER\\source\\repos\\IlmaCSharp\\ilmacsharp\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|solutionrelative:ilmacsharp\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|C:\\Users\\USER\\source\\repos\\IlmaCSharp\\ilmacsharp\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|solutionrelative:ilmacsharp\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|C:\\Users\\USER\\source\\repos\\IlmaCSharp\\ilmacsharp\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|solutionrelative:ilmacsharp\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|C:\\Users\\USER\\source\\repos\\IlmaCSharp\\ilmacsharp\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|solutionrelative:ilmacsharp\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|C:\\Users\\USER\\source\\repos\\IlmaCSharp\\ilmacsharp\\front.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|solutionrelative:ilmacsharp\\front.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|C:\\Users\\USER\\source\\repos\\IlmaCSharp\\ilmacsharp\\doctor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|solutionrelative:ilmacsharp\\doctor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|C:\\Users\\USER\\source\\repos\\IlmaCSharp\\ilmacsharp\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|solutionrelative:ilmacsharp\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|C:\\Users\\USER\\source\\repos\\IlmaCSharp\\ilmacsharp\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E85DCFC-D866-4E8B-8C2B-D9D08F089680}|IlmaCSharp\\IlmaCSharp.csproj|solutionrelative:ilmacsharp\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 231,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 43,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Program.cs",
+              "RelativeDocumentMoniker": "IlmaCSharp\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Program.cs",
+              "RelativeToolTip": "IlmaCSharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T12:50:23.467Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Register.cs",
+              "RelativeDocumentMoniker": "IlmaCSharp\\Register.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Register.cs [Design]",
+              "RelativeToolTip": "IlmaCSharp\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:20:47.807Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Patient.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Patient.cs",
+              "RelativeDocumentMoniker": "IlmaCSharp\\Patient.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Patient.cs [Design]",
+              "RelativeToolTip": "IlmaCSharp\\Patient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T02:23:35.994Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Doctor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Doctor.cs",
+              "RelativeDocumentMoniker": "IlmaCSharp\\Doctor.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Doctor.cs [Design]",
+              "RelativeToolTip": "IlmaCSharp\\Doctor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T02:23:46.333Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Payment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Payment.cs",
+              "RelativeDocumentMoniker": "IlmaCSharp\\Payment.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Payment.cs [Design]",
+              "RelativeToolTip": "IlmaCSharp\\Payment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T02:25:10.887Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Dashboard.cs",
+              "RelativeDocumentMoniker": "IlmaCSharp\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Dashboard.cs [Design]",
+              "RelativeToolTip": "IlmaCSharp\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T02:24:24.995Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\User.cs",
+              "RelativeDocumentMoniker": "IlmaCSharp\\User.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\User.cs [Design]",
+              "RelativeToolTip": "IlmaCSharp\\User.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T03:04:54.054Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Front.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Front.cs",
+              "RelativeDocumentMoniker": "IlmaCSharp\\Front.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Front.cs [Design]",
+              "RelativeToolTip": "IlmaCSharp\\Front.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T04:05:40.843Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CrystalReport1.rpt",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\CrystalReport1.rpt",
+              "RelativeDocumentMoniker": "IlmaCSharp\\CrystalReport1.rpt",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\CrystalReport1.rpt*",
+              "RelativeToolTip": "IlmaCSharp\\CrystalReport1.rpt*",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPdSURBVDhPrZRbaBxVGMf/c9nd2Vuyu9nN5m7aStI2oWtSCBgtWgj10oe2D2Le1FRRBBEk\u002BCJo8amIIL5U0BfFF6mFalOs0CdrWqhJNkmTUEyyzaXuJpvsdXZ2dnauntmdbJvEvvkb/pxvZr7vP\u002Bec\u002BTj4XzEMg7LCCj39z7/y6vC7n1m3T2RtaWHi8ncXP7Bud8FaYwVPnS94pPeZgcihIBiGBkWuvfyzXcC0P9SsKrJ08\u002Br3XxbymaT1qgJjjRXaOrsiz518\u002BdyJSCv8Xid8HgcCXo7Ej1QQZciGrf7EswN9W\u002BlMLpva3hCLfNayAG2NNcw50RSFYklBtiAhs0diWYXXZcfxo23O4fMfXewbHHrNWx8IV6v/w7AGcSa\u002B\u002B0VebeVEXBuPgSezPT383qdDZ98YrRY9YYYmDKlm6KpkWsLvxhg2qTjaw14M9rRg4EgTBntbcKCtwel2OzmrbLchRUxoYmBe5kjTNAS6gHvGLK4LV/FD/lssUBMIB9xosuThbOSjj2z2GJr7txNTyGgpLGl/Y5G6j/viPH4VruAX4WfMKzOVD5qzN/Meh2ZcjRxRHZGPste7dIOGphuQjCKiUhTjpXFojAyH7oCmabjJ38Cl9FfIKCkYlLbPkG0\u002Bc/lFQI\u002BQOEg1cpGlDYP8TQVjxetYLi9DhYZcKYdCloeqqSQViKYn8f7GCL4\u002BdolsjrPqZMF\u002B8\u002BExV1lRfGleaY5tlP0zqzIu/JQC6\u002BtCOryCXDgKw6OD1hhIs2WU4xI6mjsx\u002BvrHaORCyFCCZVWFVgtri7qw/mebt3Br4BC73NPBIZGWEVsM4uFsL9KrByGyAkkkWxFX0cf24/zRt/FC6CQ8Ns\u002B\u002BJTM5tX47OrOwSp6vdbb6Q4c73Kc4O4tYUkN6MwRKDsLuT0HMJ/CU1I43B0bw1tBIxcjUZlpAdGpqYvavWzcqhrH524jN39FFxVZk65qebm1uOHeqP4BkXsc2r0NM\u002BWE8OAy7L4rPX/oEZyJnwZI22WmvZKaE6ejkxPTdqmGtbebu/oa529dgt7FwO\u002B3obnGgI2iDi2PgdzRg9MAFdLl6YZBcilSZKzXbj5whtVYzqRlKRR6lYp4kUzBbJ1cCNFJZ72Hhd9sRtIXB6nboul5b7uPaoWZoompAtghMLEuIZwxyhDFoD9LoDqvI8SISKQFxcnytb/E1lWS1cpjssOs8pGiGVw37yty61Ej\u002BC9cZouBlVTHoKKTWE7liOsvL0EpaucSbK6\u002BR2kqsWeFuw5YAN336eOCLsqK\u002BIxSl7rwgI54UZhaWtn9cXElOKqr28N6dMX7qjyuKVbIH4F/CwpxOdjf1iQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-11-21T15:36:49.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Prescription.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Prescription.cs",
+              "RelativeDocumentMoniker": "IlmaCSharp\\Prescription.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Prescription.cs [Design]",
+              "RelativeToolTip": "IlmaCSharp\\Prescription.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T02:23:59.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Form2.cs",
+              "RelativeDocumentMoniker": "IlmaCSharp\\Form2.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Form2.cs",
+              "RelativeToolTip": "IlmaCSharp\\Form2.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAjwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T01:14:10.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Form2.cs",
+              "RelativeDocumentMoniker": "IlmaCSharp\\Form2.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Form2.cs [Design]",
+              "RelativeToolTip": "IlmaCSharp\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T01:12:28.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Payrep.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Payrep.cs",
+              "RelativeDocumentMoniker": "IlmaCSharp\\Payrep.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Payrep.cs [Design]",
+              "RelativeToolTip": "IlmaCSharp\\Payrep.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:46:20.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Prescription.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Prescription.cs",
+              "RelativeDocumentMoniker": "IlmaCSharp\\Prescription.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Prescription.cs",
+              "RelativeToolTip": "IlmaCSharp\\Prescription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T03:31:03.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Appointment.cs",
+              "RelativeDocumentMoniker": "IlmaCSharp\\Appointment.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Appointment.cs",
+              "RelativeToolTip": "IlmaCSharp\\Appointment.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T02:29:47.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Login.cs",
+              "RelativeDocumentMoniker": "IlmaCSharp\\Login.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Login.cs [Design]",
+              "RelativeToolTip": "IlmaCSharp\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:19:11.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "rep01.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\rep01.cs",
+              "RelativeDocumentMoniker": "IlmaCSharp\\rep01.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\rep01.cs [Design]",
+              "RelativeToolTip": "IlmaCSharp\\rep01.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:56:49.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\User.cs",
+              "RelativeDocumentMoniker": "IlmaCSharp\\User.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\User.cs",
+              "RelativeToolTip": "IlmaCSharp\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T03:29:49.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Dashboard.cs",
+              "RelativeDocumentMoniker": "IlmaCSharp\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Dashboard.cs",
+              "RelativeToolTip": "IlmaCSharp\\Dashboard.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAEwE0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T03:26:27.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Payment.cs",
+              "RelativeDocumentMoniker": "IlmaCSharp\\Payment.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Payment.cs",
+              "RelativeToolTip": "IlmaCSharp\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T02:43:55.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Doctor.cs",
+              "RelativeDocumentMoniker": "IlmaCSharp\\Doctor.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Doctor.cs",
+              "RelativeToolTip": "IlmaCSharp\\Doctor.cs",
+              "ViewState": "AgIAAFMBAAAAAAAAAAAAAF0BAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T03:39:23.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Patient.cs",
+              "RelativeDocumentMoniker": "IlmaCSharp\\Patient.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Patient.cs",
+              "RelativeToolTip": "IlmaCSharp\\Patient.cs",
+              "ViewState": "AgIAAPcBAAAAAAAAAAAnwAoCAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T02:22:30.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Doctor.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Doctor.Designer.cs",
+              "RelativeDocumentMoniker": "IlmaCSharp\\Doctor.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Doctor.Designer.cs",
+              "RelativeToolTip": "IlmaCSharp\\Doctor.Designer.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAIAwwEsAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:39:33.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Register.cs",
+              "RelativeDocumentMoniker": "IlmaCSharp\\Register.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Register.cs",
+              "RelativeToolTip": "IlmaCSharp\\Register.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAADgv54AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:27:38.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Front.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Front.cs",
+              "RelativeDocumentMoniker": "IlmaCSharp\\Front.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Front.cs",
+              "RelativeToolTip": "IlmaCSharp\\Front.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAD4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T04:16:02.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CrystalReport3.rpt",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\CrystalReport3.rpt",
+              "RelativeDocumentMoniker": "IlmaCSharp\\CrystalReport3.rpt",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\CrystalReport3.rpt",
+              "RelativeToolTip": "IlmaCSharp\\CrystalReport3.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPdSURBVDhPrZRbaBxVGMf/c9nd2Vuyu9nN5m7aStI2oWtSCBgtWgj10oe2D2Le1FRRBBEk\u002BCJo8amIIL5U0BfFF6mFalOs0CdrWqhJNkmTUEyyzaXuJpvsdXZ2dnauntmdbJvEvvkb/pxvZr7vP\u002Bec\u002BTj4XzEMg7LCCj39z7/y6vC7n1m3T2RtaWHi8ncXP7Bud8FaYwVPnS94pPeZgcihIBiGBkWuvfyzXcC0P9SsKrJ08\u002Br3XxbymaT1qgJjjRXaOrsiz518\u002BdyJSCv8Xid8HgcCXo7Ej1QQZciGrf7EswN9W\u002BlMLpva3hCLfNayAG2NNcw50RSFYklBtiAhs0diWYXXZcfxo23O4fMfXewbHHrNWx8IV6v/w7AGcSa\u002B\u002B0VebeVEXBuPgSezPT383qdDZ98YrRY9YYYmDKlm6KpkWsLvxhg2qTjaw14M9rRg4EgTBntbcKCtwel2OzmrbLchRUxoYmBe5kjTNAS6gHvGLK4LV/FD/lssUBMIB9xosuThbOSjj2z2GJr7txNTyGgpLGl/Y5G6j/viPH4VruAX4WfMKzOVD5qzN/Meh2ZcjRxRHZGPste7dIOGphuQjCKiUhTjpXFojAyH7oCmabjJ38Cl9FfIKCkYlLbPkG0\u002Bc/lFQI\u002BQOEg1cpGlDYP8TQVjxetYLi9DhYZcKYdCloeqqSQViKYn8f7GCL4\u002BdolsjrPqZMF\u002B8\u002BExV1lRfGleaY5tlP0zqzIu/JQC6\u002BtCOryCXDgKw6OD1hhIs2WU4xI6mjsx\u002BvrHaORCyFCCZVWFVgtri7qw/mebt3Br4BC73NPBIZGWEVsM4uFsL9KrByGyAkkkWxFX0cf24/zRt/FC6CQ8Ns\u002B\u002BJTM5tX47OrOwSp6vdbb6Q4c73Kc4O4tYUkN6MwRKDsLuT0HMJ/CU1I43B0bw1tBIxcjUZlpAdGpqYvavWzcqhrH524jN39FFxVZk65qebm1uOHeqP4BkXsc2r0NM\u002BWE8OAy7L4rPX/oEZyJnwZI22WmvZKaE6ejkxPTdqmGtbebu/oa529dgt7FwO\u002B3obnGgI2iDi2PgdzRg9MAFdLl6YZBcilSZKzXbj5whtVYzqRlKRR6lYp4kUzBbJ1cCNFJZ72Hhd9sRtIXB6nboul5b7uPaoWZoompAtghMLEuIZwxyhDFoD9LoDqvI8SISKQFxcnytb/E1lWS1cpjssOs8pGiGVw37yty61Ej\u002BC9cZouBlVTHoKKTWE7liOsvL0EpaucSbK6\u002BR2kqsWeFuw5YAN336eOCLsqK\u002BIxSl7rwgI54UZhaWtn9cXElOKqr28N6dMX7qjyuKVbIH4F/CwpxOdjf1iQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-11-22T00:46:42.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CrystalReport2.rpt",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\CrystalReport2.rpt",
+              "RelativeDocumentMoniker": "IlmaCSharp\\CrystalReport2.rpt",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\CrystalReport2.rpt",
+              "RelativeToolTip": "IlmaCSharp\\CrystalReport2.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPdSURBVDhPrZRbaBxVGMf/c9nd2Vuyu9nN5m7aStI2oWtSCBgtWgj10oe2D2Le1FRRBBEk\u002BCJo8amIIL5U0BfFF6mFalOs0CdrWqhJNkmTUEyyzaXuJpvsdXZ2dnauntmdbJvEvvkb/pxvZr7vP\u002Bec\u002BTj4XzEMg7LCCj39z7/y6vC7n1m3T2RtaWHi8ncXP7Bud8FaYwVPnS94pPeZgcihIBiGBkWuvfyzXcC0P9SsKrJ08\u002Br3XxbymaT1qgJjjRXaOrsiz518\u002BdyJSCv8Xid8HgcCXo7Ej1QQZciGrf7EswN9W\u002BlMLpva3hCLfNayAG2NNcw50RSFYklBtiAhs0diWYXXZcfxo23O4fMfXewbHHrNWx8IV6v/w7AGcSa\u002B\u002B0VebeVEXBuPgSezPT383qdDZ98YrRY9YYYmDKlm6KpkWsLvxhg2qTjaw14M9rRg4EgTBntbcKCtwel2OzmrbLchRUxoYmBe5kjTNAS6gHvGLK4LV/FD/lssUBMIB9xosuThbOSjj2z2GJr7txNTyGgpLGl/Y5G6j/viPH4VruAX4WfMKzOVD5qzN/Meh2ZcjRxRHZGPste7dIOGphuQjCKiUhTjpXFojAyH7oCmabjJ38Cl9FfIKCkYlLbPkG0\u002Bc/lFQI\u002BQOEg1cpGlDYP8TQVjxetYLi9DhYZcKYdCloeqqSQViKYn8f7GCL4\u002BdolsjrPqZMF\u002B8\u002BExV1lRfGleaY5tlP0zqzIu/JQC6\u002BtCOryCXDgKw6OD1hhIs2WU4xI6mjsx\u002BvrHaORCyFCCZVWFVgtri7qw/mebt3Br4BC73NPBIZGWEVsM4uFsL9KrByGyAkkkWxFX0cf24/zRt/FC6CQ8Ns\u002B\u002BJTM5tX47OrOwSp6vdbb6Q4c73Kc4O4tYUkN6MwRKDsLuT0HMJ/CU1I43B0bw1tBIxcjUZlpAdGpqYvavWzcqhrH524jN39FFxVZk65qebm1uOHeqP4BkXsc2r0NM\u002BWE8OAy7L4rPX/oEZyJnwZI22WmvZKaE6ejkxPTdqmGtbebu/oa529dgt7FwO\u002B3obnGgI2iDi2PgdzRg9MAFdLl6YZBcilSZKzXbj5whtVYzqRlKRR6lYp4kUzBbJ1cCNFJZ72Hhd9sRtIXB6nboul5b7uPaoWZoompAtghMLEuIZwxyhDFoD9LoDqvI8SISKQFxcnytb/E1lWS1cpjssOs8pGiGVw37yty61Ej\u002BC9cZouBlVTHoKKTWE7liOsvL0EpaucSbK6\u002BR2kqsWeFuw5YAN336eOCLsqK\u002BIxSl7rwgI54UZhaWtn9cXElOKqr28N6dMX7qjyuKVbIH4F/CwpxOdjf1iQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-11-21T01:13:30.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Login.cs",
+              "RelativeDocumentMoniker": "IlmaCSharp\\Login.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Login.cs",
+              "RelativeToolTip": "IlmaCSharp\\Login.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAIA1wG8AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T03:24:52.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MainPage.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\MainPage.cs",
+              "RelativeDocumentMoniker": "IlmaCSharp\\MainPage.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\MainPage.cs",
+              "RelativeToolTip": "IlmaCSharp\\MainPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T12:25:15.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MainPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\MainPage.cs",
+              "RelativeDocumentMoniker": "IlmaCSharp\\MainPage.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\MainPage.cs [Design]",
+              "RelativeToolTip": "IlmaCSharp\\MainPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T12:08:17.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Appointment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Appointment.cs",
+              "RelativeDocumentMoniker": "IlmaCSharp\\Appointment.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\IlmaCSharp\\IlmaCSharp\\Appointment.cs [Design]",
+              "RelativeToolTip": "IlmaCSharp\\Appointment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T02:24:59.83Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
